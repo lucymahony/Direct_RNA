@@ -12,5 +12,5 @@
 source ~/.bashrc
 mamba activate /hpc-home/mahony/miniforge3
 conda run -n miniconda_dna python measure_polyA_counts.py 
-conda run -n miniconda_dna python plot_polyA_counts.py 
+#conda run -n miniconda_dna python plot_polyA_counts.py 
 

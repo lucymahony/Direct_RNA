@@ -27,10 +27,10 @@ reference_index=GCF_018294505.1_IWGSC_CS_RefSeq_v2.1_genomic.fna.mmi
 bedcoverage=bed_coverage.txt
 
 #Set parameters
-chr=7B
-other_chr=NC_057813.1 # Corresponding chromosome in the reference format
-start=175748000
-stop=175761000
+chr=1A
+other_chr=NC_057794.1d # Corresponding chromosome in the reference format
+start=299443927
+stop=29945082
 
 # Source packages
 source package bedops-2.4.28
