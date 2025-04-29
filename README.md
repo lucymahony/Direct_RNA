@@ -1,13 +1,6 @@
 # Direct_RNA
 Analysing ONT direct RNA sequencing data.
 
-# Input data
-/ei/data/reads/PDEV-88/2024_10_24_PSEQ2766
-# Genome data 
-/ei/projects/c/c3109f4b-0db1-43ec-8cb5-df48d8ea89d0/scratch/repos/CAGE/input_data/chinese_spring_genome_data
-# RNAseq data
-/ei/projects/c/c3109f4b-0db1-43ec-8cb5-df48d8ea89d0/scratch/repos/Direct_RNA/input_data/241114_CAD_CSref_TPM_root_rm0_from_BW.txt
-
 # Anaylysis
 1. Re-base calling and alignment perfomed using Dorado v0.7.2 . which is installed on the HPC already.
 Using the simplex model - rna004_130bps_sup@v3.0.1 - as well as the modification model - rna004_130bps_sup@v3.0.1_m6A_DRACH@v1
